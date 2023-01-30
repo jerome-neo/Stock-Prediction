@@ -1,4 +1,5 @@
 <h1> Time is Money: Time Series Forecasting</h1>
+
 Stock Prediction project using simple KNN, ARIMA and LSTM.
 This project was completed in Semester 1, 2021 for [CS3244 Machine Learning](https://nusmods.com/modules/CS3244/machine-learning).
 
